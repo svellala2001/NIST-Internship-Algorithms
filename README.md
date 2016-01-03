@@ -17,7 +17,7 @@ mM.py:
 python mM.py
 ```
 
-A-Z.py
+A-Z.py:
 ```
 python A-Z.py
 ```
